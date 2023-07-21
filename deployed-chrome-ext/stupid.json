@@ -1,0 +1,437 @@
+{
+  "result": [
+    {
+      "all_conjugations": [
+        {
+          "tense": "present2",
+          "translation": "you stretch out",
+          "word": "aalst"
+        },
+        {
+          "tense": "present3",
+          "translation": "he/she/it stretches out",
+          "word": "aalt"
+        },
+        {
+          "tense": "present4",
+          "translation": "we stretch out",
+          "word": "aalen"
+        },
+        {
+          "tense": "present5",
+          "translation": "you all stretch out",
+          "word": "aalt"
+        },
+        {
+          "tense": "present6",
+          "translation": "they stretch out",
+          "word": "aalen"
+        },
+        {
+          "tense": "preterite1",
+          "translation": "I stretched out",
+          "word": "aalte"
+        },
+        {
+          "tense": "preterite2",
+          "translation": "you stretched out",
+          "word": "aaltest"
+        },
+        {
+          "tense": "preterite3",
+          "translation": "he/she/it stretched out",
+          "word": "aalte"
+        },
+        {
+          "tense": "preterite4",
+          "translation": "we stretched out",
+          "word": "aalten"
+        },
+        {
+          "tense": "preterite5",
+          "translation": "you all stretched out",
+          "word": "aaltet"
+        },
+        {
+          "tense": "preterite6",
+          "translation": "they stretched out",
+          "word": "aalten"
+        },
+        {
+          "tense": "future1",
+          "translation": "I will stretch out",
+          "word": "werde aalen"
+        },
+        {
+          "tense": "future2",
+          "translation": "you will stretch out",
+          "word": "wirst aalen"
+        },
+        {
+          "tense": "future3",
+          "translation": "he/she/it will stretch out",
+          "word": "wird aalen"
+        },
+        {
+          "tense": "future4",
+          "translation": "we will stretch out",
+          "word": "werden aalen"
+        },
+        {
+          "tense": "future5",
+          "translation": "you all will stretch out",
+          "word": "werdet aalen"
+        },
+        {
+          "tense": "future6",
+          "translation": "they will stretch out",
+          "word": "werden aalen"
+        },
+        {
+          "tense": "perfect1",
+          "translation": "I have stretched out",
+          "word": "habe geaalt"
+        },
+        {
+          "tense": "perfect2",
+          "translation": "you have stretched out",
+          "word": "hast geaalt"
+        },
+        {
+          "tense": "perfect3",
+          "translation": "he/she/it has stretched out",
+          "word": "hat geaalt"
+        },
+        {
+          "tense": "perfect4",
+          "translation": "we have stretched out",
+          "word": "haben geaalt"
+        },
+        {
+          "tense": "perfect5",
+          "translation": "you all have stretched out",
+          "word": "habt geaalt"
+        },
+        {
+          "tense": "perfect6",
+          "translation": "they have stretched out",
+          "word": "haben geaalt"
+        },
+        {
+          "tense": "pluperfect1",
+          "translation": "I had stretched out",
+          "word": "hatte geaalt"
+        },
+        {
+          "tense": "pluperfect2",
+          "translation": "you had stretched out",
+          "word": "hattest geaalt"
+        },
+        {
+          "tense": "pluperfect3",
+          "translation": "he/she/it had stretched out",
+          "word": "hatte geaalt"
+        },
+        {
+          "tense": "pluperfect4",
+          "translation": "we had stretched out",
+          "word": "hatten geaalt"
+        },
+        {
+          "tense": "pluperfect5",
+          "translation": "you all had stretched out",
+          "word": "hattet geaalt"
+        },
+        {
+          "tense": "pluperfect6",
+          "translation": "they had stretched out",
+          "word": "hatten geaalt"
+        },
+        {
+          "tense": "future_perfect1",
+          "translation": "I will have stretched out",
+          "word": "werde geaalt haben"
+        },
+        {
+          "tense": "future_perfect2",
+          "translation": "you will have stretched out",
+          "word": "wirst geaalt haben"
+        },
+        {
+          "tense": "future_perfect3",
+          "translation": "he/she/it will have stretched out",
+          "word": "wird geaalt haben"
+        },
+        {
+          "tense": "future_perfect4",
+          "translation": "we will have stretched out",
+          "word": "werden geaalt haben"
+        },
+        {
+          "tense": "future_perfect5",
+          "translation": "you all will have stretched out",
+          "word": "werdet geaalt haben"
+        },
+        {
+          "tense": "future_perfect6",
+          "translation": "they will have stretched out",
+          "word": "werden geaalt haben"
+        },
+        {
+          "tense": "preterite_konj1",
+          "translation": "(so that I) would stretch out",
+          "word": "aalte"
+        },
+        {
+          "tense": "preterite_konj2",
+          "translation": "(so that you) would stretch out",
+          "word": "aaltest"
+        },
+        {
+          "tense": "preterite_konj3",
+          "translation": "(so that he/she) would stretch out",
+          "word": "aalte"
+        },
+        {
+          "tense": "preterite_konj4",
+          "translation": "(so that we) would stretch out",
+          "word": "aalten"
+        },
+        {
+          "tense": "preterite_konj5",
+          "translation": "(so that you all) would stretch out",
+          "word": "aaltet"
+        },
+        {
+          "tense": "preterite_konj6",
+          "translation": "(so that they) would stretch out",
+          "word": "aalten"
+        },
+        {
+          "tense": "future_konj1_II",
+          "translation": "I would stretch out",
+          "word": "w\u00c3\u00bcrde aalen"
+        },
+        {
+          "tense": "future_konj2_II",
+          "translation": "you would stretch out",
+          "word": "w\u00c3\u00bcrdest aalen"
+        },
+        {
+          "tense": "future_konj3_II",
+          "translation": "he/she/it would stretch out",
+          "word": "w\u00c3\u00bcrde aalen"
+        },
+        {
+          "tense": "future_konj4_II",
+          "translation": "we would stretch out",
+          "word": "w\u00c3\u00bcrden aalen"
+        },
+        {
+          "tense": "future_konj5_II",
+          "translation": "you all would stretch out",
+          "word": "w\u00c3\u00bcrdet aalen"
+        },
+        {
+          "tense": "future_konj6_II",
+          "translation": "they would stretch out",
+          "word": "w\u00c3\u00bcrden aalen"
+        },
+        {
+          "tense": "future_perfect_konj1_II",
+          "translation": "I would have stretched out",
+          "word": "w\u00c3\u00bcrde geaalt haben"
+        },
+        {
+          "tense": "future_perfect_konj2_II",
+          "translation": "you would have stretched out",
+          "word": "w\u00c3\u00bcrdest geaalt haben"
+        },
+        {
+          "tense": "future_perfect_konj3_II",
+          "translation": "he/she/it would have stretched out",
+          "word": "w\u00c3\u00bcrde geaalt haben"
+        },
+        {
+          "tense": "future_perfect_konj4_II",
+          "translation": "we would have stretched out",
+          "word": "w\u00c3\u00bcrden geaalt haben"
+        },
+        {
+          "tense": "future_perfect_konj5_II",
+          "translation": "you all would have stretched out",
+          "word": "w\u00c3\u00bcrdet geaalt haben"
+        },
+        {
+          "tense": "future_perfect_konj6_II",
+          "translation": "they would have stretched out",
+          "word": "w\u00c3\u00bcrden geaalt haben"
+        },
+        {
+          "tense": "present_konj1",
+          "translation": "(so that I) stretch out",
+          "word": "aale"
+        },
+        {
+          "tense": "present_konj2",
+          "translation": "(so that you) stretch out",
+          "word": "aalest"
+        },
+        {
+          "tense": "present_konj3",
+          "translation": "(so that he/she) stretch out",
+          "word": "aale"
+        },
+        {
+          "tense": "present_konj4",
+          "translation": "(so that we) stretch out",
+          "word": "aalen"
+        },
+        {
+          "tense": "present_konj5",
+          "translation": "(so that you all) stretch out",
+          "word": "aalet"
+        },
+        {
+          "tense": "present_konj6",
+          "translation": "(so that they) stretch out",
+          "word": "aalen"
+        },
+        {
+          "tense": "perfect_konj1",
+          "translation": "(so that I) have stretched out",
+          "word": "habe geaalt"
+        },
+        {
+          "tense": "perfect_konj2",
+          "translation": "(so that you) have stretched out",
+          "word": "habest geaalt"
+        },
+        {
+          "tense": "perfect_konj3",
+          "translation": "(so that he/she) has stretched out",
+          "word": "habe geaalt"
+        },
+        {
+          "tense": "perfect_konj4",
+          "translation": "(so that we) have stretched out",
+          "word": "haben geaalt"
+        },
+        {
+          "tense": "perfect_konj5",
+          "translation": "(so that you all) have stretched out",
+          "word": "habet geaalt"
+        },
+        {
+          "tense": "perfect_konj6",
+          "translation": "(so that they) have stretched out",
+          "word": "haben geaalt"
+        },
+        {
+          "tense": "future_konj1_I",
+          "translation": "(so that I) will stretch out",
+          "word": "werde aalen"
+        },
+        {
+          "tense": "future_konj2_I",
+          "translation": "(so that you) will stretch out",
+          "word": "werdest aalen"
+        },
+        {
+          "tense": "future_konj3_I",
+          "translation": "(so that he/she) will stretch out",
+          "word": "werde aalen"
+        },
+        {
+          "tense": "future_konj4_I",
+          "translation": "(so that we) will stretch out",
+          "word": "werden aalen"
+        },
+        {
+          "tense": "future_konj5_I",
+          "translation": "(so that you all) will stretch out",
+          "word": "werdet aalen"
+        },
+        {
+          "tense": "future_konj6_I",
+          "translation": "(so that they) will stretch out",
+          "word": "werden aalen"
+        },
+        {
+          "tense": "pluperfect_konj1",
+          "translation": "(so that I) would have stretched out",
+          "word": "h\u00c3\u00a4tte geaalt"
+        },
+        {
+          "tense": "pluperfect_konj2",
+          "translation": "(so that you) would have stretched out",
+          "word": "h\u00c3\u00a4ttest geaalt"
+        },
+        {
+          "tense": "pluperfect_konj3",
+          "translation": "(so that he/she) would have stretched out",
+          "word": "h\u00c3\u00a4tte geaalt"
+        },
+        {
+          "tense": "pluperfect_konj4",
+          "translation": "(so that we) would have stretched out",
+          "word": "h\u00c3\u00a4tten geaalt"
+        },
+        {
+          "tense": "pluperfect_konj5",
+          "translation": "(so that you all) would have stretched out",
+          "word": "h\u00c3\u00a4ttet geaalt"
+        },
+        {
+          "tense": "pluperfect_konj6",
+          "translation": "(so that they) would have stretched out",
+          "word": "h\u00c3\u00a4tten geaalt"
+        },
+        {
+          "tense": "future_perfect_konj1_I",
+          "translation": "(so that I) will have stretched out",
+          "word": "werde geaalt haben"
+        },
+        {
+          "tense": "future_perfect_konj2_I",
+          "translation": "(so that you) will have stretched out",
+          "word": "werdest geaalt haben"
+        },
+        {
+          "tense": "future_perfect_konj3_I",
+          "translation": "(so that he/she) will have stretched out",
+          "word": "werde geaalt haben"
+        },
+        {
+          "tense": "future_perfect_konj4_I",
+          "translation": "(so that we) will have stretched out",
+          "word": "werden geaalt haben"
+        },
+        {
+          "tense": "future_perfect_konj5_I",
+          "translation": "(so that you all) will have stretched out",
+          "word": "werdet geaalt haben"
+        },
+        {
+          "tense": "future_perfect_konj6_I",
+          "translation": "(so that they) will have stretched out",
+          "word": "werden geaalt haben"
+        },
+        {
+          "tense": "imperative_2",
+          "translation": "stretch out",
+          "word": "aal"
+        },
+        {
+          "tense": "imperative_5",
+          "translation": "stretch out",
+          "word": "aalt"
+        }
+      ],
+      "infinitive": "Aalen (to stretch out) conjugation",
+      "tense": "present6",
+      "translation": "they stretch out",
+      "word": "aalen"
+    }
+  ]
+}
