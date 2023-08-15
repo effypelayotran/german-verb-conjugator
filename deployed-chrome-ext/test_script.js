@@ -1,4 +1,4 @@
-/* Scartch Paper Code */
+/* Test Frontend Code */
 // let paragraphs = document.getElementsByTagName('p');
 // let giantText = '';
 // for (elt of paragraphs) {
