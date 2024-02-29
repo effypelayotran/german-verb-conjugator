@@ -1,22 +1,3 @@
-/** CHECK AWS LAMBDA FUNCTION STATUS */
-const url = 'https://cpmqz3qsx2hdjlk6dzlleevrba0zhjuq.lambda-url.us-west-1.on.aws/';
-
-fetch(url)
-  .then(response => {
-    if (!response.ok) {
-      throw new Error('Network response was not ok');
-    }
-    return response.json(); // Parse the response body as JSON
-  })
-  .then(data => {
-    console.log(data); // Log the JSON data to the console
-  })
-  .catch(error => {
-    console.error('There was a problem with the fetch operation:', error);
-  });
-
-
-
 /***
  *
  *
