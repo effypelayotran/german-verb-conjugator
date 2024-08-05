@@ -153,15 +153,6 @@ async function main() {
   await processListOfVerbPairDicts(global_list_of_verbpairdict);
 
   // Pairs each highlighted word in Part 1 to its verbpairdict data
-  // Note: But what about words like "sind" that appear multiple times in text.
-  // but with different use cases each time? This won't work because
-  // the keys need to be unique. I want there to be as many key-value pairs
-  // in Global Megadict as there are in the list of all verbpairdicts.
-
-  /* Try a different data structure for this, maybe just maintain the list
-    of highlighted verbs from Part1 but make it into a touple. Hashmap is not 
-    as necessary here because you're not "search" ing for a specific value, you're
-    just displaying all the values equally at the end of the day.*/
   console.log("Global List of SVP: ", global_list_of_verbpairdict);
   console.log("Global Megadict: ", megadict);
 }
