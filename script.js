@@ -3,7 +3,6 @@
  *
  * PART 1 ---- SIMPLE POSTAG VERB/AUX HIGHLIGHTING
  * main verbs = orange
- * auxiliary and adp = yellow <--- not yet implemented
  *
  *
  */
