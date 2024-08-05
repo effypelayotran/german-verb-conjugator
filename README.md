@@ -1,3 +1,3 @@
 # German Verb Conjugator 
-- Type: Chrome Browser Extension
+- Type: Python script for potential Chrome Browser Extension
 - Status: Backend Completed, Frontend In-Progress
