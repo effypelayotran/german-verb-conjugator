@@ -1,5 +1,5 @@
 # German Verb Conjugator Script
-- This web script (script.js) can be injected into a browser, as a browser extension.
+- This web script can be injected into a browser, as a browser extension.
 - Upon doing so, it will take the text of a web page the user visits, searches through the text to identify the verbs, highlights said verbs, and logs a JSON of all the conjugated forms of each verb on the page, into the console.
 - I wrote two main Google Cloud Functions (GCF) to execute the above functionality:
   1) The first cloud function uses Spacy pipeline trained on German news and media text were used to identity the verbs (via the Parts-Of-Speech tagging component) and this Cloud Functions response is then sent back to the local script.
