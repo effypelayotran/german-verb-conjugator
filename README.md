@@ -1,3 +1,2 @@
 # German Verb Conjugator 
-- Type: Python script for potential Chrome Browser Extension
-- Status: Backend Completed, Frontend In-Progress
+- See script.js to fetch Google Cloud Functions that query Firestore verb database
