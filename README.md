@@ -1,4 +1,4 @@
-# ConjugateThis: A German Verb Conjugation Script for Language Learners
+# ConjugateThis: A German Verb Conjugation Tool for Language Learners
 - This web script can be injected into a browser by installing it as an extension.
 - Upon doing so, it will take the text of a web page the user visits, searches through the text to identify the verbs, highlights said verbs, and logs a JSON of all the conjugated forms of each verb on the page, into the console.
 - I wrote two main Google Cloud Functions (GCF) to execute the above functionality:
