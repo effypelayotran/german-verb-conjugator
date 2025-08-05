@@ -54,12 +54,11 @@ fetch(
  *  */
 let global_list_of_verbpairdict = [];
 
-// Function to fetch list_of_verbpairdicts from the Flask cloud function
 async function fetchData(paragraphText) {
   try {
     const encodedText = encodeURIComponent(paragraphText);
     const response = await fetch(
-      `https://us-central1-marine-compass-391323.cloudfunctions.net/postag_text2?megatext=${encodedText}`
+      `https://us-central1-marine-compass-391323.cloudfunctions.net/postag_text2?text=${encodedText}`
     );
     const data = await response.json();
     return data.result; // Extract the 'result' key from the JSON response
@@ -157,3 +156,4 @@ async function main() {
 }
 
 main();
+
